@@ -1,0 +1,7 @@
+lab50:
+  files:
+    - !exclude "*"
+    - !include person.h
+    - !include student.h
+    - !include person.cpp
+    - !include student.cpp
