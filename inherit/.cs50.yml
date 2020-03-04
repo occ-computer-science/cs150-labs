@@ -5,3 +5,4 @@ lab50:
     - !include student.h
     - !include person.cpp
     - !include student.cpp
+    - !include makefile
