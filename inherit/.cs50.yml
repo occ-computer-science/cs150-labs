@@ -6,3 +6,4 @@ lab50:
     - !include person.cpp
     - !include student.cpp
     - !include makefile
+    - !include client.cpp
