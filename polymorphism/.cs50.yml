@@ -1,3 +1,1 @@
-lab50:
-  files:
-    - !exclude .cs50.yml
+lab50: true
